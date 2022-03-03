@@ -1,0 +1,200 @@
+000000  tr=3.11e+00  va=3.19e+00  va_best=3.19e+00  dur=0.044s/epoch  save system  
+001000  tr=1.56e-03  va=8.83e-04  va_best=8.83e-04  dur=0.010s/epoch  save system  
+002000  tr=3.83e-04  va=3.59e-04  va_best=2.24e-04  dur=0.011s/epoch  save system  
+003000  tr=1.56e-04  va=1.17e-04  va_best=1.17e-04  dur=0.008s/epoch  save system  
+004000  tr=5.94e-04  va=8.57e-04  va_best=9.10e-05  dur=0.010s/epoch  save system  
+005000  tr=2.77e-04  va=3.65e-04  va_best=7.75e-05  dur=0.009s/epoch  save system  
+006000  tr=7.92e-05  va=8.29e-05  va_best=7.74e-05  dur=0.009s/epoch  save system  
+007000  tr=7.50e-05  va=8.44e-05  va_best=7.37e-05  dur=0.008s/epoch  save system  
+008000  tr=8.67e-05  va=8.13e-05  va_best=6.57e-05  dur=0.008s/epoch  save system  
+009000  tr=2.62e-04  va=7.15e-04  va_best=6.33e-05  dur=0.008s/epoch  save system  
+010000  tr=6.70e-05  va=7.42e-05  va_best=6.33e-05  dur=0.008s/epoch  
+011000  tr=3.75e-04  va=8.67e-04  va_best=5.89e-05  dur=0.010s/epoch  save system  
+012000  tr=1.48e-04  va=2.45e-04  va_best=5.85e-05  dur=0.009s/epoch  save system  
+013000  tr=1.30e-04  va=1.18e-04  va_best=5.37e-05  dur=0.010s/epoch  save system  
+014000  tr=8.06e-04  va=5.41e-04  va_best=5.37e-05  dur=0.009s/epoch  
+015000  tr=1.56e-04  va=1.07e-04  va_best=5.18e-05  dur=0.009s/epoch  save system  
+016000  tr=5.48e-05  va=5.72e-05  va_best=4.67e-05  dur=0.010s/epoch  save system  
+017000  tr=1.99e-03  va=1.82e-03  va_best=4.67e-05  dur=0.010s/epoch  
+018000  tr=6.40e-05  va=5.52e-05  va_best=4.67e-05  dur=0.010s/epoch  
+019000  tr=7.36e-05  va=1.01e-04  va_best=4.67e-05  dur=0.009s/epoch  
+020000  tr=1.51e-04  va=1.31e-04  va_best=4.19e-05  dur=0.009s/epoch  save system  
+021000  tr=6.07e-05  va=6.40e-05  va_best=4.19e-05  dur=0.008s/epoch  
+022000  tr=6.17e-05  va=1.06e-04  va_best=4.19e-05  dur=0.008s/epoch  
+023000  tr=1.46e-04  va=2.26e-04  va_best=4.19e-05  dur=0.010s/epoch  
+024000  tr=9.70e-05  va=1.83e-04  va_best=4.19e-05  dur=0.011s/epoch  
+025000  tr=3.58e-04  va=4.17e-04  va_best=4.19e-05  dur=0.017s/epoch  
+026000  tr=1.80e-04  va=1.33e-04  va_best=4.19e-05  dur=0.017s/epoch  
+027000  tr=4.29e-04  va=2.97e-04  va_best=4.18e-05  dur=0.020s/epoch  save system  
+028000  tr=6.18e-05  va=8.43e-05  va_best=4.18e-05  dur=0.018s/epoch  
+029000  tr=6.06e-05  va=8.28e-05  va_best=4.18e-05  dur=0.019s/epoch  
+030000  tr=5.22e-05  va=6.01e-05  va_best=4.10e-05  dur=0.022s/epoch  save system  
+031000  tr=6.82e-05  va=1.10e-04  va_best=4.10e-05  dur=0.021s/epoch  
+032000  tr=1.08e-04  va=2.18e-04  va_best=4.10e-05  dur=0.022s/epoch  
+033000  tr=5.04e-05  va=5.68e-05  va_best=4.10e-05  dur=0.021s/epoch  
+034000  tr=8.30e-05  va=7.62e-05  va_best=4.10e-05  dur=0.021s/epoch  
+035000  tr=1.38e-04  va=2.43e-04  va_best=4.10e-05  dur=0.025s/epoch  
+036000  tr=4.86e-05  va=6.24e-05  va_best=4.05e-05  dur=0.025s/epoch  save system  
+037000  tr=1.38e-04  va=2.09e-04  va_best=4.05e-05  dur=0.025s/epoch  
+038000  tr=1.39e-03  va=1.07e-03  va_best=4.05e-05  dur=0.024s/epoch  
+039000  tr=7.73e-05  va=1.80e-04  va_best=3.80e-05  dur=0.025s/epoch  save system  
+040000  tr=4.27e-05  va=6.63e-05  va_best=3.76e-05  dur=0.025s/epoch  save system  
+041000  tr=4.28e-05  va=5.51e-05  va_best=3.64e-05  dur=0.024s/epoch  save system  
+042000  tr=3.96e-05  va=4.41e-05  va_best=3.64e-05  dur=0.024s/epoch  
+043000  tr=6.58e-05  va=7.13e-05  va_best=3.58e-05  dur=0.025s/epoch  save system  
+044000  tr=3.33e-04  va=4.10e-04  va_best=3.58e-05  dur=0.025s/epoch  
+045000  tr=5.09e-05  va=4.66e-05  va_best=3.58e-05  dur=0.026s/epoch  
+046000  tr=7.44e-04  va=7.63e-04  va_best=3.53e-05  dur=0.027s/epoch  save system  
+047000  tr=3.62e-05  va=3.90e-05  va_best=3.31e-05  dur=0.027s/epoch  save system  
+048000  tr=2.17e-04  va=1.81e-04  va_best=3.31e-05  dur=0.029s/epoch  
+049000  tr=4.55e-05  va=5.18e-05  va_best=3.31e-05  dur=0.030s/epoch  
+050000  tr=5.81e-05  va=4.94e-05  va_best=3.13e-05  dur=0.029s/epoch  save system  
+051000  tr=3.36e-04  va=5.57e-04  va_best=3.13e-05  dur=0.030s/epoch  
+052000  tr=6.02e-05  va=7.32e-05  va_best=3.13e-05  dur=0.030s/epoch  
+053000  tr=3.39e-05  va=4.03e-05  va_best=3.13e-05  dur=0.028s/epoch  
+054000  tr=3.80e-04  va=9.87e-04  va_best=3.13e-05  dur=0.030s/epoch  
+055000  tr=4.40e-05  va=1.12e-04  va_best=3.13e-05  dur=0.031s/epoch  
+056000  tr=3.25e-05  va=8.33e-05  va_best=3.13e-05  dur=0.030s/epoch  
+057000  tr=8.79e-05  va=2.31e-04  va_best=3.13e-05  dur=0.031s/epoch  
+058000  tr=3.33e-05  va=5.57e-05  va_best=3.13e-05  dur=0.029s/epoch  
+059000  tr=4.68e-05  va=8.75e-05  va_best=3.13e-05  dur=0.031s/epoch  
+060000  tr=4.55e-05  va=5.41e-05  va_best=3.13e-05  dur=0.029s/epoch  
+061000  tr=2.01e-04  va=3.47e-04  va_best=3.13e-05  dur=0.030s/epoch  
+062000  tr=3.53e-05  va=4.11e-05  va_best=3.13e-05  dur=0.030s/epoch  
+063000  tr=3.13e-05  va=5.41e-05  va_best=3.13e-05  dur=0.030s/epoch  
+064000  tr=3.22e-05  va=5.14e-05  va_best=3.13e-05  dur=0.030s/epoch  
+065000  tr=3.19e-05  va=5.93e-05  va_best=3.13e-05  dur=0.032s/epoch  
+066000  tr=9.97e-05  va=1.72e-04  va_best=3.13e-05  dur=0.031s/epoch  
+067000  tr=3.38e-04  va=7.94e-04  va_best=3.13e-05  dur=0.030s/epoch  
+068000  tr=3.68e-05  va=6.93e-05  va_best=3.13e-05  dur=0.031s/epoch  
+069000  tr=2.43e-04  va=5.97e-04  va_best=3.13e-05  dur=0.032s/epoch  
+070000  tr=1.21e-04  va=2.02e-04  va_best=3.13e-05  dur=0.033s/epoch  
+071000  tr=1.04e-04  va=9.80e-05  va_best=3.13e-05  dur=0.033s/epoch  
+072000  tr=3.13e-05  va=3.96e-05  va_best=3.13e-05  dur=0.032s/epoch  
+073000  tr=8.34e-04  va=1.71e-03  va_best=3.13e-05  dur=0.032s/epoch  
+074000  tr=5.71e-05  va=9.41e-05  va_best=3.13e-05  dur=0.032s/epoch  
+075000  tr=4.13e-05  va=9.62e-05  va_best=3.13e-05  dur=0.031s/epoch  
+076000  tr=2.38e-04  va=9.83e-04  va_best=3.13e-05  dur=0.033s/epoch  
+077000  tr=3.41e-05  va=4.94e-05  va_best=3.13e-05  dur=0.035s/epoch  
+078000  tr=2.92e-05  va=5.25e-05  va_best=3.13e-05  dur=0.034s/epoch  
+079000  tr=4.99e-05  va=9.38e-05  va_best=3.13e-05  dur=0.036s/epoch  
+080000  tr=3.32e-05  va=5.04e-05  va_best=3.13e-05  dur=0.035s/epoch  
+081000  tr=4.13e-05  va=4.90e-05  va_best=3.13e-05  dur=0.036s/epoch  
+082000  tr=3.28e-05  va=4.84e-05  va_best=3.13e-05  dur=0.034s/epoch  
+083000  tr=1.09e-04  va=4.27e-04  va_best=3.13e-05  dur=0.036s/epoch  
+084000  tr=3.05e-05  va=7.28e-05  va_best=3.13e-05  dur=0.035s/epoch  
+085000  tr=1.99e-04  va=7.72e-04  va_best=3.07e-05  dur=0.035s/epoch  save system  
+086000  tr=5.62e-05  va=6.41e-05  va_best=3.07e-05  dur=0.036s/epoch  
+087000  tr=3.22e-05  va=2.10e-04  va_best=2.95e-05  dur=0.038s/epoch  save system  
+088000  tr=3.07e-05  va=2.01e-04  va_best=2.95e-05  dur=0.035s/epoch  
+089000  tr=2.90e-05  va=1.31e-04  va_best=2.95e-05  dur=0.034s/epoch  
+090000  tr=7.27e-05  va=2.07e-04  va_best=2.95e-05  dur=0.034s/epoch  
+091000  tr=3.02e-05  va=7.36e-05  va_best=2.95e-05  dur=0.035s/epoch  
+092000  tr=2.72e-05  va=1.32e-04  va_best=2.95e-05  dur=0.034s/epoch  
+093000  tr=3.21e-05  va=5.44e-05  va_best=2.95e-05  dur=0.038s/epoch  
+094000  tr=2.13e-04  va=6.66e-04  va_best=2.95e-05  dur=0.036s/epoch  
+095000  tr=6.32e-04  va=7.86e-04  va_best=2.95e-05  dur=0.038s/epoch  
+096000  tr=5.03e-05  va=2.91e-04  va_best=2.78e-05  dur=0.038s/epoch  save system  
+097000  tr=6.58e-05  va=1.10e-04  va_best=2.78e-05  dur=0.036s/epoch  
+098000  tr=2.65e-05  va=9.04e-05  va_best=2.78e-05  dur=0.038s/epoch  
+099000  tr=3.21e-04  va=5.06e-03  va_best=2.78e-05  dur=0.038s/epoch  
+100000  tr=3.81e-05  va=5.81e-05  va_best=2.78e-05  dur=0.037s/epoch  
+101000  tr=1.36e-04  va=5.25e-04  va_best=2.78e-05  dur=0.037s/epoch  
+102000  tr=2.89e-05  va=1.03e-04  va_best=2.78e-05  dur=0.039s/epoch  
+103000  tr=3.21e-04  va=7.67e-04  va_best=2.78e-05  dur=0.042s/epoch  
+104000  tr=8.01e-04  va=9.98e-04  va_best=2.78e-05  dur=0.039s/epoch  
+105000  tr=2.99e-05  va=5.31e-05  va_best=2.78e-05  dur=0.039s/epoch  
+106000  tr=8.98e-05  va=6.21e-04  va_best=2.78e-05  dur=0.041s/epoch  
+107000  tr=5.24e-05  va=4.61e-05  va_best=2.78e-05  dur=0.040s/epoch  
+108000  tr=1.06e-04  va=1.26e-04  va_best=2.78e-05  dur=0.041s/epoch  
+109000  tr=3.38e-05  va=7.65e-05  va_best=2.78e-05  dur=0.038s/epoch  
+110000  tr=7.00e-05  va=1.54e-04  va_best=2.78e-05  dur=0.041s/epoch  
+111000  tr=8.54e-04  va=6.64e-04  va_best=2.78e-05  dur=0.040s/epoch  
+112000  tr=2.53e-05  va=6.65e-05  va_best=2.78e-05  dur=0.039s/epoch  
+113000  tr=9.19e-05  va=1.70e-04  va_best=2.78e-05  dur=0.041s/epoch  
+114000  tr=1.05e-04  va=2.50e-04  va_best=2.78e-05  dur=0.038s/epoch  
+115000  tr=6.72e-04  va=1.25e-03  va_best=2.78e-05  dur=0.039s/epoch  
+116000  tr=2.46e-04  va=6.65e-04  va_best=2.78e-05  dur=0.039s/epoch  
+117000  tr=2.28e-04  va=3.92e-04  va_best=2.78e-05  dur=0.039s/epoch  
+118000  tr=3.73e-05  va=5.83e-05  va_best=2.78e-05  dur=0.039s/epoch  
+119000  tr=1.95e-04  va=6.48e-04  va_best=2.78e-05  dur=0.039s/epoch  
+120000  tr=4.03e-04  va=7.16e-04  va_best=2.78e-05  dur=0.040s/epoch  
+121000  tr=1.80e-04  va=3.01e-04  va_best=2.78e-05  dur=0.046s/epoch  
+122000  tr=5.31e-04  va=7.54e-04  va_best=2.78e-05  dur=0.039s/epoch  
+123000  tr=3.62e-05  va=7.67e-05  va_best=2.78e-05  dur=0.040s/epoch  
+124000  tr=7.22e-04  va=1.19e-03  va_best=2.78e-05  dur=0.037s/epoch  
+125000  tr=1.66e-04  va=2.51e-04  va_best=2.78e-05  dur=0.041s/epoch  
+126000  tr=7.79e-05  va=1.47e-04  va_best=2.78e-05  dur=0.039s/epoch  
+127000  tr=9.08e-05  va=2.03e-04  va_best=2.78e-05  dur=0.041s/epoch  
+128000  tr=3.92e-05  va=7.41e-05  va_best=2.78e-05  dur=0.040s/epoch  
+129000  tr=3.29e-05  va=6.84e-05  va_best=2.78e-05  dur=0.039s/epoch  
+130000  tr=3.37e-05  va=8.20e-05  va_best=2.78e-05  dur=0.038s/epoch  
+131000  tr=2.82e-05  va=4.83e-05  va_best=2.78e-05  dur=0.039s/epoch  
+132000  tr=3.10e-05  va=4.19e-05  va_best=2.78e-05  dur=0.039s/epoch  
+133000  tr=1.02e-04  va=1.60e-04  va_best=2.78e-05  dur=0.039s/epoch  
+134000  tr=2.48e-05  va=7.72e-05  va_best=2.78e-05  dur=0.040s/epoch  
+135000  tr=1.02e-04  va=2.29e-04  va_best=2.78e-05  dur=0.039s/epoch  
+136000  tr=4.42e-05  va=7.56e-05  va_best=2.78e-05  dur=0.039s/epoch  
+137000  tr=2.89e-05  va=6.87e-05  va_best=2.78e-05  dur=0.040s/epoch  
+138000  tr=1.67e-04  va=1.38e-04  va_best=2.78e-05  dur=0.040s/epoch  
+139000  tr=3.09e-05  va=4.06e-05  va_best=2.78e-05  dur=0.038s/epoch  
+140000  tr=4.35e-05  va=1.06e-04  va_best=2.78e-05  dur=0.040s/epoch  
+141000  tr=3.29e-05  va=3.14e-05  va_best=2.78e-05  dur=0.040s/epoch  
+142000  tr=5.54e-04  va=5.06e-04  va_best=2.78e-05  dur=0.038s/epoch  
+143000  tr=5.67e-05  va=1.06e-03  va_best=2.78e-05  dur=0.038s/epoch  
+144000  tr=8.38e-04  va=1.46e-03  va_best=2.78e-05  dur=0.039s/epoch  
+145000  tr=4.14e-04  va=1.28e-03  va_best=2.78e-05  dur=0.040s/epoch  
+146000  tr=4.18e-04  va=9.07e-04  va_best=2.78e-05  dur=0.040s/epoch  
+147000  tr=4.24e-05  va=2.71e-04  va_best=2.78e-05  dur=0.039s/epoch  
+148000  tr=9.57e-04  va=1.22e-03  va_best=2.78e-05  dur=0.039s/epoch  
+149000  tr=9.76e-05  va=8.70e-05  va_best=2.78e-05  dur=0.040s/epoch  
+150000  tr=2.68e-04  va=5.72e-04  va_best=2.78e-05  dur=0.040s/epoch  
+151000  tr=8.68e-04  va=1.17e-03  va_best=2.52e-05  dur=0.040s/epoch  save system  
+152000  tr=2.49e-05  va=4.25e-05  va_best=2.52e-05  dur=0.040s/epoch  
+153000  tr=1.26e-04  va=4.07e-04  va_best=2.52e-05  dur=0.040s/epoch  
+154000  tr=1.39e-04  va=3.85e-04  va_best=2.52e-05  dur=0.038s/epoch  
+155000  tr=4.61e-04  va=1.26e-03  va_best=2.52e-05  dur=0.041s/epoch  
+156000  tr=1.42e-04  va=3.52e-04  va_best=2.52e-05  dur=0.039s/epoch  
+157000  tr=6.51e-05  va=1.16e-04  va_best=2.52e-05  dur=0.040s/epoch  
+158000  tr=3.32e-05  va=7.93e-05  va_best=2.52e-05  dur=0.040s/epoch  
+159000  tr=7.25e-04  va=4.96e-04  va_best=2.52e-05  dur=0.040s/epoch  
+160000  tr=5.55e-05  va=5.20e-04  va_best=2.52e-05  dur=0.040s/epoch  
+161000  tr=1.13e-04  va=2.51e-04  va_best=2.52e-05  dur=0.040s/epoch  
+162000  tr=2.53e-05  va=2.36e-04  va_best=2.52e-05  dur=0.039s/epoch  
+163000  tr=8.51e-05  va=3.74e-04  va_best=2.52e-05  dur=0.039s/epoch  
+164000  tr=1.17e-04  va=5.29e-04  va_best=2.52e-05  dur=0.038s/epoch  
+165000  tr=4.58e-05  va=4.94e-04  va_best=2.52e-05  dur=0.039s/epoch  
+166000  tr=1.73e-04  va=9.34e-04  va_best=2.52e-05  dur=0.038s/epoch  
+167000  tr=8.89e-04  va=1.12e-03  va_best=2.52e-05  dur=0.040s/epoch  
+168000  tr=1.79e-04  va=6.51e-03  va_best=2.52e-05  dur=0.040s/epoch  
+169000  tr=2.49e-05  va=6.64e-04  va_best=2.52e-05  dur=0.040s/epoch  
+170000  tr=5.79e-05  va=2.20e-04  va_best=2.52e-05  dur=0.040s/epoch  
+171000  tr=7.32e-04  va=6.77e-04  va_best=2.52e-05  dur=0.039s/epoch  
+172000  tr=2.89e-05  va=3.85e-04  va_best=2.52e-05  dur=0.040s/epoch  
+173000  tr=2.69e-04  va=1.36e-02  va_best=2.52e-05  dur=0.039s/epoch  
+174000  tr=2.26e-04  va=5.19e-04  va_best=2.52e-05  dur=0.039s/epoch  
+175000  tr=6.46e-04  va=1.69e-03  va_best=2.52e-05  dur=0.038s/epoch  
+176000  tr=5.27e-05  va=1.30e-03  va_best=2.52e-05  dur=0.040s/epoch  
+177000  tr=1.10e-03  va=2.64e-03  va_best=2.52e-05  dur=0.039s/epoch  
+178000  tr=3.07e-05  va=1.27e-04  va_best=2.52e-05  dur=0.040s/epoch  
+179000  tr=1.53e-04  va=1.64e-03  va_best=2.52e-05  dur=0.039s/epoch  
+180000  tr=3.59e-05  va=3.78e-04  va_best=2.52e-05  dur=0.040s/epoch  
+181000  tr=5.82e-05  va=1.85e-04  va_best=2.52e-05  dur=0.040s/epoch  
+182000  tr=1.03e-04  va=3.22e-04  va_best=2.52e-05  dur=0.038s/epoch  
+183000  tr=4.15e-05  va=3.32e-04  va_best=2.52e-05  dur=0.039s/epoch  
+184000  tr=3.27e-05  va=3.17e-04  va_best=2.52e-05  dur=0.040s/epoch  
+185000  tr=4.85e-05  va=2.62e-04  va_best=2.52e-05  dur=0.039s/epoch  
+186000  tr=2.84e-05  va=5.08e-04  va_best=2.52e-05  dur=0.040s/epoch  
+187000  tr=1.31e-04  va=4.23e-04  va_best=2.52e-05  dur=0.037s/epoch  
+188000  tr=3.81e-05  va=5.45e-05  va_best=2.52e-05  dur=0.040s/epoch  
+189000  tr=1.36e-04  va=3.59e-04  va_best=2.52e-05  dur=0.040s/epoch  
+190000  tr=9.75e-05  va=2.19e-04  va_best=2.52e-05  dur=0.039s/epoch  
+191000  tr=2.30e-04  va=7.18e-04  va_best=2.52e-05  dur=0.039s/epoch  
+192000  tr=5.09e-04  va=2.27e-03  va_best=2.52e-05  dur=0.039s/epoch  
+193000  tr=9.34e-05  va=5.40e-04  va_best=2.52e-05  dur=0.039s/epoch  
+194000  tr=1.61e-04  va=5.09e-03  va_best=2.52e-05  dur=0.040s/epoch  
+195000  tr=3.17e-05  va=4.06e-04  va_best=2.52e-05  dur=0.039s/epoch  
+196000  tr=4.10e-04  va=8.48e-04  va_best=2.52e-05  dur=0.039s/epoch  
+197000  tr=3.22e-05  va=4.17e-04  va_best=2.52e-05  dur=0.041s/epoch  
+198000  tr=1.36e-04  va=7.88e-03  va_best=2.52e-05  dur=0.040s/epoch  
+199000  tr=1.92e-04  va=1.02e-03  va_best=2.52e-05  dur=0.039s/epoch  

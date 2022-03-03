@@ -1,0 +1,62 @@
+{
+    "activation": "elu",
+    "alpha": 0.01,
+    "amsgrad": false,
+    "batchmode": "epi",
+    "batchsize": 99999,
+    "datadir": "./",
+    "datafile_tr": "data_tr.mat",
+    "datafile_va": "data_va.mat",
+    "device": "cpu",
+    "dim_aug_lyap_warping": 0,
+    "dim_aug_tran": 1,
+    "dim_invset": 2,
+    "dim_x": 26,
+    "dim_y": 26,
+    "dims_dyn_mlphid_base": [
+        128,
+        128
+    ],
+    "dims_dyn_mlphid_lyap_convexfun": [
+        128
+    ],
+    "dims_dyn_mlphid_lyap_warping": [
+        52,
+        52
+    ],
+    "dims_dyn_mlphid_tran": [
+        32
+    ],
+    "dims_initer_mlphid": null,
+    "discrete": true,
+    "disp": true,
+    "epoch": 5000,
+    "eps": 0.1,
+    "gradclip": -1.0,
+    "initer_lag": 0,
+    "intv_eval": 10,
+    "intv_log": 100,
+    "invset_learnable": false,
+    "invset_mode": "surf",
+    "invset_sphere_init": 0.0,
+    "invset_type": "sphere",
+    "learnrate": 0.0001,
+    "no_batchnorm": false,
+    "no_cuda": false,
+    "no_invariance": false,
+    "no_stability": false,
+    "no_transform": false,
+    "outdir": "./out/",
+    "prefix": "staeq",
+    "reg_lyapvalue": -1.0,
+    "reg_lyapvalue_mode": "mean",
+    "seed": 1,
+    "smooth_step": -1.0,
+    "suffix": "single",
+    "tol": 0.0001,
+    "train_multi": false,
+    "train_single": true,
+    "warping": false,
+    "weightdecay": 0.0001,
+    "zero_slack": true
+}
