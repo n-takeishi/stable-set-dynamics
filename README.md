@@ -1,5 +1,11 @@
 # Learning Dynamics Models with Stable Invariant Sets
 
+Implementation of the method presented in the following paper:
+
+Naoya Takeishi and Yoshinobu Kawahara.
+Learning dynamics models with stable invariant sets.
+In *Proceedings of the 35th AAAI Conference on Artificial Intelligence* (AAAI), pages 9782–9790, 2021.
+
 ## Prerequisite
 
 - scipy
@@ -30,3 +36,7 @@ For training, execute `do_train.sh` in `nlinosc` directory. Then, execute `do_te
 ### Experiment of fluid flow
 
 For training, execute `do_train.sh` in `flow` directory. Then, execute `do_test.sh` to perform long-term prediction. Finally, execute `do_reduct.m` (with MATLAB) to examine the prediction results. The final prediction plots are saved in `reduct` directory. We did not attach the original flow data as it was too large.
+
+## Author
+
+*  **Naoya Takeishi** - [https://ntake.jp/](https://ntake.jp/)
