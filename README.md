@@ -7,6 +7,7 @@ Learning dynamics models with stable invariant sets.
 In *Proceedings of the 35th AAAI Conference on Artificial Intelligence* (AAAI), pages 9782–9790, 2021.
 
 [https://ojs.aaai.org/index.php/AAAI/article/view/17176](https://ojs.aaai.org/index.php/AAAI/article/view/17176)
+
 [https://arxiv.org/abs/2006.08935](https://arxiv.org/abs/2006.08935)
 
 ## Prerequisite
@@ -42,4 +43,4 @@ For training, execute `do_train.sh` in `flow` directory. Then, execute `do_test.
 
 ## Author
 
-*  **Naoya Takeishi** - [https://ntake.jp/](https://ntake.jp/)
+**Naoya Takeishi** - [https://ntake.jp/](https://ntake.jp/)
